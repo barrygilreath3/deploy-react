@@ -1,6 +1,7 @@
 {
   "name": "deploy-react",
   "version": "0.1.0",
+  "website": "https://barrygilreath3.github.io/deploy-react/"
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
